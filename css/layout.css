@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	background:#FF0000;
+	width:1000px;
+	height:700px;
+	padding:10px;
+	margin:0 auto;}
+	
+.header{
+	background:#009933;
+	width:980px;
+	height:620px;
+	margin:0 auto;}
+
+.body{
+	background:#0066CC;
+	width:980px;
+	height:80px;
+	margin:0 auto;}	
